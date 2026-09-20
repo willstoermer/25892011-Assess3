@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 7e40e2cc83c73ff4db084b94629fd2c6
+guid: 18b2abf715a21994b9ea359bab0f885f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5899927303015767666
-    second: Ghost_0
+      213: 1496437616492063381
+    second: Ghost_Eyes_Left_0
+  - first:
+      213: 1685809705144076848
+    second: Ghost_Eyes_Left_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,7 +75,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 32
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -100,89 +103,45 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ghost_0
+      name: Ghost_Eyes_Left_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 16
-        width: 16
-        height: 16
+        y: 6
+        width: 6
+        height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e81ed17806f3f1ea0800000000000000
-      internalID: -5899927303015767666
+      spriteID: 59aaa8f651a64c410800000000000000
+      internalID: 1496437616492063381
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghost_1
+      name: Ghost_Eyes_Left_1
       rect:
         serializedVersion: 2
-        x: 16
-        y: 16
-        width: 16
-        height: 16
+        x: 5
+        y: 6
+        width: 6
+        height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a75853bf06662954ca88a57981160f32
-      internalID: -511941674
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ghost_2
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a0a9c5fb2a2ce9844bc802a522328ef6
-      internalID: -237723610
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ghost_3
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 08355b55e9945c04b92264e3147c2a37
-      internalID: 852466616
+      spriteID: 03ac40abef2356710800000000000000
+      internalID: 1685809705144076848
       vertices: []
       indices: 
       edges: []
@@ -191,7 +150,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 25cc636f943ba6948ad0ef2248955749
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -199,14 +158,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      Ghost_0: -5899927303015767666
-      Ghost_1: -511941674
-      Ghost_2: -237723610
-      Ghost_3: 852466616
+      Ghost_Eyes_Left_0: 1496437616492063381
+      Ghost_Eyes_Left_1: 1685809705144076848
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
